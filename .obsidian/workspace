@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "c280a7194410f8fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5520d529204ef6cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "综述阅读.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b1d37a19aa50ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "582b63407cc615dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2175a74c86590d95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1c40203bc110f75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d684d30ef0fd196",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ad39ed79e93a5e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a5795ca6817f4aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "175999b6f9a5170d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "综述阅读.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ac6f093a6a69e13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "综述阅读.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20beecc63b02b812",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "158922ed70562621",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "综述阅读.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5520d529204ef6cf",
+  "lastOpenFiles": []
+}
